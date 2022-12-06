@@ -5,7 +5,7 @@ body {
 h1,
 h2,
 h4,
-a {
+a, .nav-link {
   color: #7a3700;
 }
 p {
